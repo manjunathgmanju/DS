@@ -1,0 +1,15 @@
+    Country-wise Analysis:
+        Brazil emerges as the most successful nation in FIFA World Cup history, having won the tournament five times.
+        Italy, Germany FR, Uruguay, and Argentina are among the other successful nations in terms of World Cup victories.
+
+    Number of Goals per Country:
+        Brazil has scored the most goals in FIFA World Cup history, followed by Argentina and Germany FR.
+
+    Half-time Home and Away Goals:
+        Brazil has scored the most half-time goals as the home team, while Spain has scored the most half-time goals as the away team.
+
+    Match Outcomes:
+        Approximately 73.6% of matches were won by the home team, while 26.4% were won by the away team.
+
+    Team Initials and Number of Players Played Analysis:
+        Brazil has fielded the most players in FIFA World Cup matches, followed by Italy.
